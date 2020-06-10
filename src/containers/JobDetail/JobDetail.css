@@ -1,0 +1,19 @@
+.job_detail_inner{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+.job-detail-container{
+    display: flex;
+    justify-content: center;
+    /* padding: 50px; */
+    border: #6d5a5a4d solid 1px;
+    width: 47%;
+    padding: 59px;
+
+}
+.btn-group {
+    display: flex;
+    width: 45%;
+    justify-content: space-evenly;
+}
